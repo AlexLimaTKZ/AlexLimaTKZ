@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Alex Lima TKZ
 
-- 🔭 Estou em constante aprendizado de Back-End e Front-End
-- 🌱 Estou fazendo faculdade de Análise e Desenvolvimento de Software
-- 📫 Contate-me no email: lider_alex@yahoo.com
+-🔭 I'm constantly learning Back-End and Front-End development
+-🌱 I'm pursuing a degree in Software Analysis and Development
+-📫 Contact me via email: lider_alex@yahoo.com
 
 <div>
 <a href="https://github.com/alexlidertkz">
