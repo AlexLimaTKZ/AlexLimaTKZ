@@ -2,7 +2,7 @@
 
 - 🔭 I'm constantly learning Back-End and Front-End development
 - 🌱 I'm pursuing a degree in Software Analysis and Development
-- 📫 Contact me via email: lider_alex@yahoo.com
+- 📫 Contact me via email: lider_alex@yahoo.com 
 
 <div>
 <a href="https://github.com/alexlidertkz">
