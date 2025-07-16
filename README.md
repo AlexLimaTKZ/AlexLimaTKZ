@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alex Lima TKZ
+## Hello! I'm Alex Lima TKZ
 
 - 🔭 I'm constantly learning Back-End and Front-End development
 - 🌱 I'm pursuing a degree in Software Analysis and Development
