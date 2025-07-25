@@ -11,9 +11,9 @@
  ![alexlimatkz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlimatkz&show_icons=true&theme=midnight-purple)
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Alex-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!--<img align="center" alt="Alex-dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
-  <!--<img align="center" alt="Alex-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <!--<img align="center" alt="Alex-github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <!--<img align="center" alt="Alex-dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />-->
+  <img align="center" alt="Alex-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Alex-github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
   <!--<img align="center" alt="Alex-Azure" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />-->
             
 </div> 
