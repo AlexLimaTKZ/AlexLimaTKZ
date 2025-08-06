@@ -4,21 +4,28 @@
 - 🌱 I'm pursuing a degree in Software Analysis and Development
 - 📫 Contact me via email: lider_alex@yahoo.com
 - ⭐ Discover my experiences: https://www.linkedin.com/in/alexslima1/ 
+<table>
+  <tr>
+    <td>
 <img width="200" height="200" alt="octocat-1754516063980" src="https://github.com/user-attachments/assets/c5f5dfdb-1f16-401f-80fb-beea60603348" />
+ </td>
+    <td>
 
-
-<div>
+<!--<div>
 <a href="https://github.com/alexlidertkz">
-<div>
+<div>-->
 
  ![alexlimatkz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlimatkz&show_icons=true&theme=midnight-purple)
 <div style="display: inline_block"><br>
+ <br>
   <img align="center" alt="Alex-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <!--<img align="center" alt="Alex-dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />-->
   <img align="center" alt="Alex-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Alex-github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
   <!--<img align="center" alt="Alex-Azure" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />-->
-            
+       </td>
+  </tr>
+</table>         
 </div> 
 
 ##
