@@ -12,7 +12,7 @@
 <div>-->
 
  ![alexlimatkz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlimatkz&show_icons=true&theme=midnight-purple)
- [![alexlimatkz](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlimatkz&layout=compact&theme=midnight-purple)](https://github.com/alexlimatkz/github-readme-stats)
+ ![alexlimatkz](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlimatkz&layout=compact&theme=midnight-purple)](https://github.com/alexlimatkz/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
