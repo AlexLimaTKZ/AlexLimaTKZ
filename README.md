@@ -11,8 +11,9 @@
 <a href="https://github.com/alexlidertkz">
 <div>-->
 
- ![alexlimatkz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlimatkz&show_icons=true&theme=midnight-purple)
- ![alexlimatkz](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlimatkz&layout=compact&theme=midnight-purple)](https://github.com/alexlimatkz/github-readme-stats)
+<!--Replace <username> with your own GitHub username.-->
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AlexLimaTKZ&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=AlexLimaTKZ&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
