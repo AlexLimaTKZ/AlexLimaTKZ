@@ -1,38 +1,72 @@
-## Hello! I'm Alex Lima TKZ
+<div align="center">
 
-- 🔭 I'm constantly learning Back-End and Front-End development
-- 🌱 I'm pursuing a degree in Software Analysis and Development
-- 📫 Contact me via email: lider_alex@yahoo.com
-- ⭐ Discover my experiences: https://www.linkedin.com/in/alexslima1/ 
+  ## 👾 Olá, eu sou Alex Lima TKZ!
 
-<!--<img width="200" height="200" alt="octocat-1754516063980" src="https://github.com/user-attachments/assets/c5f5dfdb-1f16-401f-80fb-beea60603348" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Next.js+%7C+TypeScript+%7C+Tailwind;C%23+%2F+.NET+Core;Fundador+da+TKZ+Dev+Community" alt="Typing SVG" />
+  </a>
 
-<!--<div>
-<a href="https://github.com/alexlidertkz">
-<div>-->
+  <br/>
 
-<!--Replace <username> with your own GitHub username.-->
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AlexLimaTKZ&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=AlexLimaTKZ&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  <p align="center">
+    🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> na Estácio.<br>
+    🚀 Transformando curiosidade em código com foco em <b>Performance</b> e <b>UX</b>.<br>
+    👥 Apaixonado por ensinar e criar comunidades.
+  </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alex-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Alex-dot-net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
-  <img align="center" alt="Alex-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Alex-github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="Alex-Azure" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-</div> 
+  <br/>
 
-##
+  <h3>🛠️ Minha Stack Principal</h3>
+  <div style="display: inline_block">
+    <img align="center" alt="Alex-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Alex-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Alex-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="Alex-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Alex-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+    
+  &nbsp;&nbsp;|&nbsp;&nbsp;
 
-  <a href="https://instagram.com/alex.lima3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/lidertkz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/bfaCASVTMq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lider_alex@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexslima1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-##
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexlimatkz/alexlimatkz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexlimatkz/alexlimatkz/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/alexlimatkz/output/github-contribution-grid-snake.svg">
-</picture>
+  <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Alex-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <img align="center" alt="Alex-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+    <img align="center" alt="Alex-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  </div>
+
+  <br/>
+  <br/>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=AlexLimaTKZ&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AlexLimaTKZ&theme=radical&hide_border=true" height="150" alt="streak graph"  />
+  </p>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/alexslima1/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:lider_alex@yahoo.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://instagram.com/alex.lima3" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.twitch.tv/lidertkz" target="_blank">
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>
+    <a href="https://discord.gg/bfaCASVTMq" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+  </div>
+
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexlimatkz/alexlimatkz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexlimatkz/alexlimatkz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexlimatkz/alexlimatkz/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
