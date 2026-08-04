@@ -1,12 +1,10 @@
-name: Atualizar perfil
+name: Atualizar perfil dinâmico
 
 on:
   workflow_dispatch:
   push:
-    branches: [main]
-    paths:
-      - '.github/scripts/generate-profile.mjs'
-      - '.github/workflows/profile.yml'
+    branches:
+      - main
   schedule:
     - cron: '17 8 * * *'
 
@@ -20,22 +18,29 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Gerar painel SVG
+      - name: Gerar painel SVG com métricas reais
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USER: AlexLimaTKZ
-        run: node .github/scripts/generate-profile.mjs
+        run: |
+          set -euo pipefail
+          node .github/scripts/generate-profile.mjs
+          test -s .github/assets/profile.svg
+          grep -q "STACK ANALYTICS" .github/assets/profile.svg
+          grep -q "ACTIVITY PULSE" .github/assets/profile.svg
 
       - name: Publicar atualização
         run: |
@@ -47,5 +52,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .github/assets/profile.svg
-          git commit -m "chore(profile): atualizar métricas"
+          git commit -m "chore(profile): atualizar métricas e animações"
           git push
