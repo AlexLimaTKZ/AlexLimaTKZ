@@ -1,0 +1,51 @@
+name: Atualizar perfil
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/generate-profile.mjs'
+      - '.github/workflows/profile.yml'
+  schedule:
+    - cron: '17 8 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar painel SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: AlexLimaTKZ
+        run: node .github/scripts/generate-profile.mjs
+
+      - name: Publicar atualização
+        run: |
+          if git diff --quiet -- .github/assets/profile.svg; then
+            echo "Nenhuma mudança no painel."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/profile.svg
+          git commit -m "chore(profile): atualizar métricas"
+          git push
